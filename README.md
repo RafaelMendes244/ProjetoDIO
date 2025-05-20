@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Projeto-DIO-purple?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAOCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAFtQTFRFAAAA//////////////////////////9XV1dTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1P//wAAAQkZgJgAAABV0Uk5T/////////////////////////wD7tg5TAAAATElEQVR4nF3KwQmAMAhD0QuUbP//XUwRDOkXZugOg3YMC2TUKXIxGlBOP4Og8Uzj6N4k+3XUr8R3+EyD+ZJoEipUUPA4QZ7SUakR1jCVF84FZewAAAAASUVORK5CYII=" />
+  <img src="https://img.shields.io/badge/Projeto-DIO-purple?style=for-the-badge" />
   <img src="https://img.shields.io/github/license/RafaelMendes244/ProjetoDIO?style=for-the-badge" />
 </p>
 
@@ -16,7 +16,7 @@
 
 Este projeto é um sistema bancário desenvolvido em **Python puro**, rodando no terminal. Ele simula operações básicas de uma conta bancária como **depósito**, **saque** (com regras de limite) e exibição do **extrato**.
 
-Este sistema foi criado como parte do projeto prático "Criando um Sistema Bancário com Python" da plataforma DIO (Digital Innovation One).
+Este sistema foi criado como parte do projeto prático **"Criando um Sistema Bancário com Python"** da plataforma DIO (Digital Innovation One).
 
 ---
 
@@ -53,6 +53,7 @@ python desafio.py
 [q] Sair
 =>
 
+
 📚 Conceitos Praticados
 Variáveis e Tipos de Dados
 
@@ -68,24 +69,20 @@ Manipulação de strings
 
 Organização e estrutura de código
 
+
 🛠 Tecnologias Utilizadas
+
 🐍 Python 3
 
 🖱️ PowerShell / Terminal
 
 🔗 Git e GitHub
 
-📄 Markdown para documentação
 
 📁 Repositório
 🔗 Acesse o repositório no GitHub:
 https://github.com/RafaelMendes244/ProjetoDIO
 
+
 👨‍💻 Autor
 Desenvolvido com 💙 por Rafael Mendes
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-mendes-81813b348/)
-
-⭐️ Contribua com este Projeto
-Se este projeto te ajudou de alguma forma, deixe uma ⭐ no repositório e compartilhe com outras pessoas!
-
-<p align="center"> <img src="https://img.shields.io/github/languages/count/RafaelMendes244/ProjetoDIO?style=flat-square" /> <img src="https://img.shields.io/github/last-commit/RafaelMendes244/ProjetoDIO?style=flat-square" /> </p> ```
