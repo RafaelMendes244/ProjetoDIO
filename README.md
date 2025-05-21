@@ -1,88 +1,55 @@
-<h1 align="center">💰 Sistema Bancário com Python</h1>
+# ProjetoDIO
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Projeto-DIO-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/RafaelMendes244/ProjetoDIO?style=for-the-badge" />
-</p>
+Bem-vindo ao repositório **ProjetoDIO**!  
+Este repositório foi criado como parte das atividades e desafios da Digital Innovation One (DIO).
 
-<p align="center">
-  Repositório criado por <strong>Rafael Mendes</strong> como parte do desafio prático da <a href="https://www.dio.me" target="_blank">DIO</a>.
-</p>
+## 🚀 Sobre o Projeto
+
+Este projeto tem como objetivo aplicar e demonstrar conhecimentos em **Python** adquiridos nos cursos da DIO.  
+Aqui você encontrará scripts, exercícios e possíveis soluções de desafios propostos durante o curso.
+
+## 🛠️ Tecnologias Utilizadas
+
+- Python
+
+## 📁 Estrutura do Projeto
+
+A estrutura do projeto pode variar conforme a evolução das atividades, mas normalmente inclui:
+- Scripts em Python (`.py`)
+- Arquivos de exercícios ou desafios
+- Documentações complementares
+
+## 👨‍💻 Como Executar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/RafaelMendes244/ProjetoDIO.git
+   ```
+2. Acesse a pasta do projeto:
+   ```bash
+   cd ProjetoDIO
+   ```
+3. Execute os scripts Python desejados:
+   ```bash
+   python nome_do_arquivo.py
+   ```
+
+## 📚 Aprendizados
+
+Aqui estão registrados os principais aprendizados e evoluções durante o curso da DIO.  
+Sinta-se à vontade para explorar, sugerir melhorias ou tirar dúvidas!
+
+## 🤝 Contribuição
+
+Contribuições são sempre bem-vindas!  
+Abra uma issue ou um pull request para sugerir melhorias, correções ou adicionar novas soluções.
+
+## 🔗 Links Úteis
+
+- [Meu perfil no GitHub](https://github.com/RafaelMendes244)
+- [Perfil na DIO](https://www.dio.me/users/gabriel_mito07)
+- [Perfil no LinkedIn](https://www.linkedin.com/in/rafael-mendes-81813b348/)
 
 ---
 
-## 📌 Sobre o Projeto
-
-Este projeto é um sistema bancário desenvolvido em **Python puro**, rodando no terminal. Ele simula operações básicas de uma conta bancária como **depósito**, **saque** (com regras de limite) e exibição do **extrato**.
-
-Este sistema foi criado como parte do projeto prático **"Criando um Sistema Bancário com Python"** da plataforma DIO (Digital Innovation One).
-
----
-
-## 🎯 Funcionalidades
-
-- 📥 Realizar depósitos  
-- 💸 Realizar saques (com limite de valor por saque e quantidade diária)  
-- 📄 Ver extrato de transações  
-- ❌ Validação de entradas inválidas  
-- 🧾 Interface simples via terminal  
-- 🔁 Menu interativo com repetição  
-
----
-
-## 🚀 Como Usar
-
-### Pré-requisitos:
-- Python 3 instalado
-- Git instalado (opcional para clonar)
-
-### 1. Clone o repositório:
-```bash
-git clone https://github.com/RafaelMendes244/ProjetoDIO.git
-
-cd ProjetoDIO
-
-python desafio.py
-
-🖥️ Interface do Menu
-
-[d] Depositar
-[s] Sacar
-[e] Extrato
-[q] Sair
-=>
-
-
-📚 Conceitos Praticados
-Variáveis e Tipos de Dados
-
-Entrada e Saída com input() e print()
-
-Condicionais if / elif / else
-
-Laços de repetição com while
-
-Validação de dados
-
-Manipulação de strings
-
-Organização e estrutura de código
-
-
-🛠 Tecnologias Utilizadas
-
-🐍 Python 3
-
-🖱️ PowerShell / Terminal
-
-🔗 Git e GitHub
-
-
-📁 Repositório
-🔗 Acesse o repositório no GitHub:
-https://github.com/RafaelMendes244/ProjetoDIO
-
-
-👨‍💻 Autor
-Desenvolvido com 💙 por Rafael Mendes
+*Projeto criado para fins de estudo e evolução como desenvolvedor.*
