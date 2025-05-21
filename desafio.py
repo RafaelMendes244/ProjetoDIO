@@ -1,4 +1,5 @@
 menu = """
+==================== Sistema Bancario RM ====================
 [d] Depositar
 [s] Sacar
 [e] Extrato
@@ -18,6 +19,7 @@ while True:
         valor = float(input("Informe o Valor para Deposito: "))
 
         if valor > 0:
+            print(f"Você Depositou: R$ {valor:.2f}")
             saldo += valor
             extrato += f"Deposito: R$ {valor:.2f}\n"
 
@@ -41,6 +43,7 @@ while True:
             print("Você Efetuou os 3 Saque Diario!")
 
         elif valor > 0:
+            print(f"Você Sacou: R$ {valor:.2f}")
             saldo -= valor
             extrato += f"Saque: R$ {valor:.2f}\n"
             numero_saque += 1
