@@ -1,3 +1,5 @@
+from datetime import date, datetime, timedelta
+
 menu = """
 ==================== Sistema Bancario RM ====================
 [d] Depositar
@@ -10,7 +12,7 @@ saldo = 0
 limite = 500
 extrato = ""
 numero_saque = 0
-LIMITE_SAQUE = 3
+LIMITE_SAQUE = 10
 
 while True:
     opcao = input(menu)
